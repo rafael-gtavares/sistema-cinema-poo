@@ -1,2 +1,1 @@
-admin@cinema.com;123;usuario
-joao@x.com;123;usuariorafael@gmail.com;123;usuario
+

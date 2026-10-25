@@ -1,0 +1,2 @@
+1;Free Solo;100;Jimmy Chin;2;2;Escalada;[Entrevistas, Imagens de arquivo]
+2;O Dilema das Redes;94;Jeff Orlowski;4;3;Tecnologia;[Entrevistas, Estudos]

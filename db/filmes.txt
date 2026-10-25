@@ -1,0 +1,4 @@
+1;Matrix;136;Wachowski;5;4;Wachowski;[Keanu Reeves, Carrie-Anne Moss]
+2;O Exorcista;122;William Friedkin;1;6;William Peter Blatty;[Ellen Burstyn, Linda Blair]
+3;Se Beber Não Case;100;Todd Phillips;3;5;Jon Lucas;[Bradley Cooper, Zach Galifianakis]
+5;Rafael;120;12;1;1;1;[1]
